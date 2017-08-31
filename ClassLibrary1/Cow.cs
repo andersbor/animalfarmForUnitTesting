@@ -15,7 +15,7 @@ namespace ClassLibrary1
 
         /// <summary>
         /// The weight of a cow
-        /// </summary>
+        /// </summary>     
         /// <exception cref="ArgumentOutOfRangeException"></exception>
         public int Weight
         {
